@@ -1,0 +1,14 @@
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\bin\Debug\net9.0\TimeDoCoracao.exe
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\bin\Debug\net9.0\TimeDoCoracao.deps.json
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\bin\Debug\net9.0\TimeDoCoracao.runtimeconfig.json
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\bin\Debug\net9.0\TimeDoCoracao.dll
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\bin\Debug\net9.0\TimeDoCoracao.pdb
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\TimeDoCoracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\TimeDoCoracao.AssemblyInfoInputs.cache
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\TimeDoCoracao.AssemblyInfo.cs
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\TimeDoCoracao.csproj.CoreCompileInputs.cache
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\TimeDoCoracao.dll
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\refint\TimeDoCoracao.dll
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\TimeDoCoracao.pdb
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\TimeDoCoracao.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\TimeDoCoracao\obj\Debug\net9.0\ref\TimeDoCoracao.dll
